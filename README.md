@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shweta Gupta</h1>
 <h3 align="center">I'm passionate about coding, open source projects, and building cool software.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetaaguptaa&label=Profile%20views&color=0e75b6&style=flat" alt="shwetaaguptaa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetaaguptaa" alt="shwetaaguptaa" /></a> </p>
+
 - 🌱 I’m currently learning **Advanced DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shwetaaguptaa/Portfoliowebsite](https://github.com/shwetaaguptaa/Portfoliowebsite)
@@ -20,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetaaguptaa&show_icons=true&locale=en&layout=compact" alt="shwetaaguptaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetaaguptaa&show_icons=true&locale=en" alt="shwetaaguptaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetaaguptaa&" alt="shwetaaguptaa" /></p>
